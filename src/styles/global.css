@@ -1395,9 +1395,7 @@ ul {
 .sponsor {
   padding-top: 0;
   padding-bottom: 105px;
-  background:
-    radial-gradient(circle at 50% 100%, rgba(243, 165, 28, 0.065), transparent 34%),
-    #050505;
+  background: #000;
 }
 
 .sponsor__link {

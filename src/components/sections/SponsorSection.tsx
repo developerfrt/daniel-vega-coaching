@@ -1,4 +1,4 @@
-import sponsorImage from '../../assets/images/sponsor/xfit-mercado-libre.png'
+import sponsorImage from '../../assets/images/sponsor/xfit-mercado-libre-black.png'
 import { Reveal } from '../common/Reveal'
 
 const MERCADO_LIBRE_URL =
