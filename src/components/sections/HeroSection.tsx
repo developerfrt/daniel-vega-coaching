@@ -31,7 +31,7 @@ export const HeroSection = () => (
       <div className="hero__content">
         <span className="hero__eyebrow">
           <CheckCircle2 size={14} />
-          Coaching personalizado 1 a 1
+          Coaching personalizado
         </span>
         <h1>
           Transforma
