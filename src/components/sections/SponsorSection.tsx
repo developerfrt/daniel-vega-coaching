@@ -15,7 +15,6 @@ export const SponsorSection = () => (
           rel="noopener noreferrer sponsored"
           aria-label="Comprar ropa fitness XFIT en Mercado Libre"
         >
-          <span className="sponsor__glow" aria-hidden="true" />
           <img
             src={sponsorImage}
             alt="Patrocinado por XFIT. Ropa fitness de alto rendimiento. Comprar en Mercado Libre."
