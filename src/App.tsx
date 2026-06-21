@@ -5,6 +5,7 @@ import { PlansSection } from './components/sections/PlansSection'
 import { TestimonialsSection } from './components/sections/TestimonialsSection'
 import { TransformationsSection } from './components/sections/TransformationsSection'
 import { AboutSection } from './components/sections/AboutSection'
+import { SponsorSection } from './components/sections/SponsorSection'
 import { Footer } from './components/layout/Footer'
 import { Navbar } from './components/layout/Navbar'
 import { StickyWhatsappBar } from './components/layout/StickyWhatsappBar'
@@ -25,6 +26,7 @@ function App() {
         <GiftsSection />
         <AboutSection />
         <FAQSection />
+        <SponsorSection />
       </main>
       <Footer />
       <StickyWhatsappBar />

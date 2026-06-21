@@ -54,6 +54,29 @@
   }
 }
 
+@keyframes sponsorBorderOrbit {
+  to {
+    transform: translate(-50%, -50%) rotate(360deg);
+  }
+}
+
+@keyframes sponsorBottomSweep {
+  0% {
+    left: -30%;
+    opacity: 0;
+  }
+  18% {
+    opacity: 0.9;
+  }
+  82% {
+    opacity: 0.9;
+  }
+  100% {
+    left: 104%;
+    opacity: 0;
+  }
+}
+
 .reveal {
   opacity: 0;
   transform: translateY(36px);
