@@ -1320,6 +1320,7 @@ ul {
 /* FAQ */
 .faq {
   padding-bottom: 125px;
+  background: #000;
 }
 
 .faq__container {
