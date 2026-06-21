@@ -1,0 +1,24 @@
+:root {
+  --color-bg: #050505;
+  --color-bg-soft: #0a0a0a;
+  --color-card: #0d0d0d;
+  --color-card-hover: #12100c;
+  --color-gold: #f3a51c;
+  --color-gold-light: #ffc55c;
+  --color-gold-deep: #9b5b0c;
+  --color-text: #f8f6f1;
+  --color-muted: #aaa7a0;
+  --color-border: rgba(243, 165, 28, 0.25);
+  --color-border-soft: rgba(255, 255, 255, 0.1);
+  --color-whatsapp: #25d366;
+  --shadow-gold: 0 0 28px rgba(243, 165, 28, 0.22);
+  --shadow-gold-strong: 0 0 48px rgba(243, 165, 28, 0.32);
+  --font-display: 'Oswald', 'Arial Narrow', sans-serif;
+  --font-body: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    sans-serif;
+  --container: 1200px;
+  --navbar-height: 82px;
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 22px;
+}
